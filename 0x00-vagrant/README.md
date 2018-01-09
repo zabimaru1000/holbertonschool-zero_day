@@ -1,0 +1,1 @@
+This project tells what the command uname prints in the Ubuntu Virtual Machine.
