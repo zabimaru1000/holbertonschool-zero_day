@@ -1,0 +1,1 @@
+This project describes basic commands for the UNIX vi editor.
