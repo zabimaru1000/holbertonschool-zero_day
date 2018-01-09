@@ -1,0 +1,1 @@
+This project describes the commands used for basic Emacs functionality.
